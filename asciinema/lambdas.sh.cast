@@ -1,4 +1,4 @@
-{"version": 2, "width": 112, "height": 45, "timestamp": 1682507248, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "lambdas.sh"}
+{"version": 2, "width": 80, "height": 30, "timestamp": 1682507248, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "lambdas.sh"}
 [0.006419, "o", "\r\n"]
 [0.019075, "o", "💭 \u001b[3;1m\u001b[38;2;255;255;255mLet's look at a simple task that has a Java SAM as its input\u001b[0m\u001b[0m\r\n"]
 [0.019225, "o", "\u001b[32;1m❯\u001b[0m "]
