@@ -1,4 +1,4 @@
-{"version": 2, "width": 169, "height": 93, "timestamp": 1682518658, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "closures.sh"}
+{"version": 2, "width": 80, "height": 35, "timestamp": 1682518658, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "closures.sh"}
 [0.019027, "o", "💭 \u001b[3;1m\u001b[38;2;255;255;255mThe task references Gradle Script object's method \u001b[0m\u001b[38;2;236;53;51m`\u001b[0m\u001b[38;2;236;53;51mexec\u001b[0m\u001b[38;2;236;53;51m`\u001b[0m\u001b[38;2;255;255;255m in its doLast action\u001b[0m\u001b[0m\r\n"]
 [0.019475, "o", "\u001b[32;1m❯\u001b[0m "]
 [1.030609, "o", "\u001b"]
